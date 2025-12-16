@@ -1,0 +1,94 @@
+Loci,ID_sample,ID_sample_ori,Site,Taxon,species,genus,family,order,class,phylum,Nreads
+12S160,ADE_24_01334,NA,NA,Agonidae,NA,NA,Agonidae,Perciformes,Teleostei,Chordata,0
+12S160,ADE_24_01334,NA,NA,Ammodytes,NA,Ammodytes,Ammodytidae,Perciformes,Teleostei,Chordata,0
+12S160,ADE_24_01334,NA,NA,Anisarchus,NA,Anisarchus,Lumpenidae,Perciformes,Teleostei,Chordata,24621
+12S160,ADE_24_01334,NA,NA,Boreogadus saida,Boreogadus saida,Boreogadus,Gadidae,Gadiformes,Teleostei,Chordata,1793430
+12S160,ADE_24_01334,NA,NA,Cottidae,NA,NA,Cottidae,Perciformes,Teleostei,Chordata,460242
+12S160,ADE_24_01334,NA,NA,Delphinapterus leucas,Delphinapterus leucas,Delphinapterus,Monodontidae,Cetartiodactyla,Mammalia,Chordata,0
+12S160,ADE_24_01334,NA,NA,Delphinidae,NA,NA,Delphinidae,Cetartiodactyla,Mammalia,Chordata,0
+12S160,ADE_24_01334,NA,NA,Liparis,NA,Liparis,Liparidae,Perciformes,Teleostei,Chordata,0
+12S160,ADE_24_01334,NA,NA,Meleagris gallopavo,Meleagris gallopavo,Meleagris,Phasianidae,Galliformes,Aves,Chordata,0
+12S160,ADE_24_01334,NA,NA,Microcottus sellaris,Microcottus sellaris,Microcottus,Cottidae,Perciformes,Teleostei,Chordata,1292
+12S160,ADE_24_01334,NA,NA,Monodon monoceros,Monodon monoceros,Monodon,Monodontidae,Cetartiodactyla,Mammalia,Chordata,177851
+12S160,ADE_24_01334,NA,NA,Myoxocephalus quadricornis,Myoxocephalus quadricornis,Myoxocephalus,Cottidae,Perciformes,Teleostei,Chordata,0
+12S160,ADE_24_01334,NA,NA,Phocoena phocoena,Phocoena phocoena,Phocoena,Phocoenidae,Cetartiodactyla,Mammalia,Chordata,0
+12S160,ADE_24_01334,NA,NA,Pusa,NA,Pusa,Phocidae,Carnivora,Mammalia,Chordata,0
+12S160,ADE_24_01334,NA,NA,Pusa hispida,Pusa hispida,Pusa,Phocidae,Carnivora,Mammalia,Chordata,588
+12S160,ADE_24_01334,NA,NA,Rangifer tarandus,Rangifer tarandus,Rangifer,Cervidae,Artiodactyla,Mammalia,Chordata,0
+12S160,ADE_24_01334,NA,NA,Sagmatias obliquidens,Sagmatias obliquidens,Sagmatias,Delphinidae,Cetartiodactyla,Mammalia,Chordata,26
+12S160,ADE_24_01334,NA,NA,Salvelinus,NA,Salvelinus,Salmonidae,Salmoniformes,Teleostei,Chordata,0
+12S160,ADE_24_01334,NA,NA,Salvethymus svetovidovi,Salvethymus svetovidovi,Salvethymus,Salmonidae,Salmoniformes,Teleostei,Chordata,0
+12S160,ADE_24_01334,NA,NA,NA,NA,NA,NA,NA,NA,NA,57772
+12S160,ADE_24_01335,NA,NA,Agonidae,NA,NA,Agonidae,Perciformes,Teleostei,Chordata,6193
+12S160,ADE_24_01335,NA,NA,Ammodytes,NA,Ammodytes,Ammodytidae,Perciformes,Teleostei,Chordata,0
+12S160,ADE_24_01335,NA,NA,Anisarchus,NA,Anisarchus,Lumpenidae,Perciformes,Teleostei,Chordata,0
+12S160,ADE_24_01335,NA,NA,Boreogadus saida,Boreogadus saida,Boreogadus,Gadidae,Gadiformes,Teleostei,Chordata,954020
+12S160,ADE_24_01335,NA,NA,Cottidae,NA,NA,Cottidae,Perciformes,Teleostei,Chordata,470860
+12S160,ADE_24_01335,NA,NA,Delphinapterus leucas,Delphinapterus leucas,Delphinapterus,Monodontidae,Cetartiodactyla,Mammalia,Chordata,105
+12S160,ADE_24_01335,NA,NA,Delphinidae,NA,NA,Delphinidae,Cetartiodactyla,Mammalia,Chordata,104
+12S160,ADE_24_01335,NA,NA,Liparis,NA,Liparis,Liparidae,Perciformes,Teleostei,Chordata,1656
+12S160,ADE_24_01335,NA,NA,Meleagris gallopavo,Meleagris gallopavo,Meleagris,Phasianidae,Galliformes,Aves,Chordata,1906
+12S160,ADE_24_01335,NA,NA,Microcottus sellaris,Microcottus sellaris,Microcottus,Cottidae,Perciformes,Teleostei,Chordata,1274
+12S160,ADE_24_01335,NA,NA,Monodon monoceros,Monodon monoceros,Monodon,Monodontidae,Cetartiodactyla,Mammalia,Chordata,26462
+12S160,ADE_24_01335,NA,NA,Myoxocephalus quadricornis,Myoxocephalus quadricornis,Myoxocephalus,Cottidae,Perciformes,Teleostei,Chordata,0
+12S160,ADE_24_01335,NA,NA,Phocoena phocoena,Phocoena phocoena,Phocoena,Phocoenidae,Cetartiodactyla,Mammalia,Chordata,12
+12S160,ADE_24_01335,NA,NA,Pusa,NA,Pusa,Phocidae,Carnivora,Mammalia,Chordata,33
+12S160,ADE_24_01335,NA,NA,Pusa hispida,Pusa hispida,Pusa,Phocidae,Carnivora,Mammalia,Chordata,0
+12S160,ADE_24_01335,NA,NA,Rangifer tarandus,Rangifer tarandus,Rangifer,Cervidae,Artiodactyla,Mammalia,Chordata,878919
+12S160,ADE_24_01335,NA,NA,Sagmatias obliquidens,Sagmatias obliquidens,Sagmatias,Delphinidae,Cetartiodactyla,Mammalia,Chordata,1396
+12S160,ADE_24_01335,NA,NA,Salvelinus,NA,Salvelinus,Salmonidae,Salmoniformes,Teleostei,Chordata,98564
+12S160,ADE_24_01335,NA,NA,Salvethymus svetovidovi,Salvethymus svetovidovi,Salvethymus,Salmonidae,Salmoniformes,Teleostei,Chordata,329
+12S160,ADE_24_01335,NA,NA,NA,NA,NA,NA,NA,NA,NA,3884
+12S160,ADE_24_01336,NA,NA,Agonidae,NA,NA,Agonidae,Perciformes,Teleostei,Chordata,0
+12S160,ADE_24_01336,NA,NA,Ammodytes,NA,Ammodytes,Ammodytidae,Perciformes,Teleostei,Chordata,72539
+12S160,ADE_24_01336,NA,NA,Anisarchus,NA,Anisarchus,Lumpenidae,Perciformes,Teleostei,Chordata,0
+12S160,ADE_24_01336,NA,NA,Boreogadus saida,Boreogadus saida,Boreogadus,Gadidae,Gadiformes,Teleostei,Chordata,924663
+12S160,ADE_24_01336,NA,NA,Cottidae,NA,NA,Cottidae,Perciformes,Teleostei,Chordata,1517626
+12S160,ADE_24_01336,NA,NA,Delphinapterus leucas,Delphinapterus leucas,Delphinapterus,Monodontidae,Cetartiodactyla,Mammalia,Chordata,0
+12S160,ADE_24_01336,NA,NA,Delphinidae,NA,NA,Delphinidae,Cetartiodactyla,Mammalia,Chordata,0
+12S160,ADE_24_01336,NA,NA,Liparis,NA,Liparis,Liparidae,Perciformes,Teleostei,Chordata,0
+12S160,ADE_24_01336,NA,NA,Meleagris gallopavo,Meleagris gallopavo,Meleagris,Phasianidae,Galliformes,Aves,Chordata,0
+12S160,ADE_24_01336,NA,NA,Microcottus sellaris,Microcottus sellaris,Microcottus,Cottidae,Perciformes,Teleostei,Chordata,21730
+12S160,ADE_24_01336,NA,NA,Monodon monoceros,Monodon monoceros,Monodon,Monodontidae,Cetartiodactyla,Mammalia,Chordata,5520
+12S160,ADE_24_01336,NA,NA,Myoxocephalus quadricornis,Myoxocephalus quadricornis,Myoxocephalus,Cottidae,Perciformes,Teleostei,Chordata,2002
+12S160,ADE_24_01336,NA,NA,Phocoena phocoena,Phocoena phocoena,Phocoena,Phocoenidae,Cetartiodactyla,Mammalia,Chordata,0
+12S160,ADE_24_01336,NA,NA,Pusa,NA,Pusa,Phocidae,Carnivora,Mammalia,Chordata,0
+12S160,ADE_24_01336,NA,NA,Pusa hispida,Pusa hispida,Pusa,Phocidae,Carnivora,Mammalia,Chordata,0
+12S160,ADE_24_01336,NA,NA,Rangifer tarandus,Rangifer tarandus,Rangifer,Cervidae,Artiodactyla,Mammalia,Chordata,0
+12S160,ADE_24_01336,NA,NA,Sagmatias obliquidens,Sagmatias obliquidens,Sagmatias,Delphinidae,Cetartiodactyla,Mammalia,Chordata,49
+12S160,ADE_24_01336,NA,NA,Salvelinus,NA,Salvelinus,Salmonidae,Salmoniformes,Teleostei,Chordata,95114
+12S160,ADE_24_01336,NA,NA,Salvethymus svetovidovi,Salvethymus svetovidovi,Salvethymus,Salmonidae,Salmoniformes,Teleostei,Chordata,0
+12S160,ADE_24_01336,NA,NA,NA,NA,NA,NA,NA,NA,NA,151653
+MiFishU,ADE_24_01334,NA,NA,Boreogadus saida,Boreogadus saida,Boreogadus,Gadidae,Gadiformes,Teleostei,Chordata,1352
+MiFishU,ADE_24_01334,NA,NA,Cephalorhynchus heavisidii,Cephalorhynchus heavisidii,Cephalorhynchus,Delphinidae,Cetartiodactyla,Mammalia,Chordata,167
+MiFishU,ADE_24_01334,NA,NA,Delphinidae,NA,NA,Delphinidae,Cetartiodactyla,Mammalia,Chordata,57
+MiFishU,ADE_24_01334,NA,NA,Monodon monoceros,Monodon monoceros,Monodon,Monodontidae,Cetartiodactyla,Mammalia,Chordata,13670373
+MiFishU,ADE_24_01334,NA,NA,Myoxocephalus,NA,Myoxocephalus,Cottidae,Perciformes,Teleostei,Chordata,0
+MiFishU,ADE_24_01334,NA,NA,Phocoena phocoena,Phocoena phocoena,Phocoena,Phocoenidae,Cetartiodactyla,Mammalia,Chordata,0
+MiFishU,ADE_24_01334,NA,NA,Pusa hispida,Pusa hispida,Pusa,Phocidae,Carnivora,Mammalia,Chordata,0
+MiFishU,ADE_24_01334,NA,NA,Rangifer tarandus,Rangifer tarandus,Rangifer,Cervidae,Artiodactyla,Mammalia,Chordata,0
+MiFishU,ADE_24_01334,NA,NA,Sagmatias obliquidens,Sagmatias obliquidens,Sagmatias,Delphinidae,Cetartiodactyla,Mammalia,Chordata,0
+MiFishU,ADE_24_01334,NA,NA,Ursus,NA,Ursus,Ursidae,Carnivora,Mammalia,Chordata,0
+MiFishU,ADE_24_01334,NA,NA,NA,NA,NA,NA,NA,NA,NA,1808
+MiFishU,ADE_24_01335,NA,NA,Boreogadus saida,Boreogadus saida,Boreogadus,Gadidae,Gadiformes,Teleostei,Chordata,2135
+MiFishU,ADE_24_01335,NA,NA,Cephalorhynchus heavisidii,Cephalorhynchus heavisidii,Cephalorhynchus,Delphinidae,Cetartiodactyla,Mammalia,Chordata,490
+MiFishU,ADE_24_01335,NA,NA,Delphinidae,NA,NA,Delphinidae,Cetartiodactyla,Mammalia,Chordata,185
+MiFishU,ADE_24_01335,NA,NA,Monodon monoceros,Monodon monoceros,Monodon,Monodontidae,Cetartiodactyla,Mammalia,Chordata,9989581
+MiFishU,ADE_24_01335,NA,NA,Myoxocephalus,NA,Myoxocephalus,Cottidae,Perciformes,Teleostei,Chordata,53
+MiFishU,ADE_24_01335,NA,NA,Phocoena phocoena,Phocoena phocoena,Phocoena,Phocoenidae,Cetartiodactyla,Mammalia,Chordata,0
+MiFishU,ADE_24_01335,NA,NA,Pusa hispida,Pusa hispida,Pusa,Phocidae,Carnivora,Mammalia,Chordata,6
+MiFishU,ADE_24_01335,NA,NA,Rangifer tarandus,Rangifer tarandus,Rangifer,Cervidae,Artiodactyla,Mammalia,Chordata,327
+MiFishU,ADE_24_01335,NA,NA,Sagmatias obliquidens,Sagmatias obliquidens,Sagmatias,Delphinidae,Cetartiodactyla,Mammalia,Chordata,0
+MiFishU,ADE_24_01335,NA,NA,Ursus,NA,Ursus,Ursidae,Carnivora,Mammalia,Chordata,0
+MiFishU,ADE_24_01335,NA,NA,NA,NA,NA,NA,NA,NA,NA,18346
+MiFishU,ADE_24_01336,NA,NA,Boreogadus saida,Boreogadus saida,Boreogadus,Gadidae,Gadiformes,Teleostei,Chordata,7349
+MiFishU,ADE_24_01336,NA,NA,Cephalorhynchus heavisidii,Cephalorhynchus heavisidii,Cephalorhynchus,Delphinidae,Cetartiodactyla,Mammalia,Chordata,4180
+MiFishU,ADE_24_01336,NA,NA,Delphinidae,NA,NA,Delphinidae,Cetartiodactyla,Mammalia,Chordata,1098
+MiFishU,ADE_24_01336,NA,NA,Monodon monoceros,Monodon monoceros,Monodon,Monodontidae,Cetartiodactyla,Mammalia,Chordata,13645534
+MiFishU,ADE_24_01336,NA,NA,Myoxocephalus,NA,Myoxocephalus,Cottidae,Perciformes,Teleostei,Chordata,15042
+MiFishU,ADE_24_01336,NA,NA,Phocoena phocoena,Phocoena phocoena,Phocoena,Phocoenidae,Cetartiodactyla,Mammalia,Chordata,259
+MiFishU,ADE_24_01336,NA,NA,Pusa hispida,Pusa hispida,Pusa,Phocidae,Carnivora,Mammalia,Chordata,14
+MiFishU,ADE_24_01336,NA,NA,Rangifer tarandus,Rangifer tarandus,Rangifer,Cervidae,Artiodactyla,Mammalia,Chordata,0
+MiFishU,ADE_24_01336,NA,NA,Sagmatias obliquidens,Sagmatias obliquidens,Sagmatias,Delphinidae,Cetartiodactyla,Mammalia,Chordata,9
+MiFishU,ADE_24_01336,NA,NA,Ursus,NA,Ursus,Ursidae,Carnivora,Mammalia,Chordata,3
+MiFishU,ADE_24_01336,NA,NA,NA,NA,NA,NA,NA,NA,NA,39844

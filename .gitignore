@@ -1,0 +1,35 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# RStudio files
+.Rproj.user/
+*.Rproj
+
+# Package management
+renv/library/
+renv/staging/
+.packrat/
+
+# Cache and temporary files
+.Rbuildignore
+.Rcheck/
+.Rprofile
+.Renviron
+*.Rout
+*.Rout.save
+*.Rout.fail
+*.Rout.log
+
+# Reports and output
+*.html
+*.pdf
+*.docx
+
+# OS-specific files
+.DS_Store
+Thumbs.db
