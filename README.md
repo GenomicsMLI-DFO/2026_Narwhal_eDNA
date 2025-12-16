@@ -36,10 +36,10 @@ monitoring frameworks can strengthen conservation and management of narwhals whi
 biodiversity assessment in Arctic marine systems.
 
 ## Status
-Document under review
+A note was written and is under review.
 
 ## Contents
-The metadata, the counts for ESVs, taxonomic assignment to ESVs and sequences are presented in the metadata or the data folders. A R script use these files to produce the results presented in the note.
+The metadata, the counts for ESVs, taxonomic assignment to ESVs and sequences are presented in the metadata or the data folders. A R script uses these files to produce the results presented in the note.
 
 ## Acknowledgements
 Thank you to the Arviq Hunters & Trappers Organization for supporting this work and to L.Kringayark, C.
